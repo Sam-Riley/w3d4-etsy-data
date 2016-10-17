@@ -61,5 +61,5 @@ movies.forEach(function(movie) {
     directors = directors.join(', ')
 
 
-    console.log(movie.title + '-' + movie.genre + '(' + movie.year + ') - Directed by' + directors
+    console.log(movie.title + '-' + movie.genre + '(' + movie.year + ') - Directed by' +    directors
 })
